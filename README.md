@@ -1,2 +1,2 @@
 # LIFE
-LIFE paper
+LIFE paper code
