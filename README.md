@@ -5,6 +5,6 @@ Firstly, enter the dataset folder and run 1_keySentenceExtraction.py to retrieve
 
 Then, enter the LIFE_train folder and run train.py
 
-The LLM generated dataset we use is GossipCop++, and the manual dataset is a LUN. The links are as follows:
+The LLM-generated dataset we used is GossipCop++, and the human-written dataset we used is LUN. The links are as follows:
 
 https://github.com/mbzuai-nlp/Fakenews-dataset  https://github.com/jiayingwu19/SheepDog/tree/main/data/news_articles
